@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I am Daniil Karunou!</h2>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Bash%20Ebash&width=800&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Daniil%20Karunou&width=800&height=300)](https://github.com/Akshay090/svg-banners)
 
 ###
 
